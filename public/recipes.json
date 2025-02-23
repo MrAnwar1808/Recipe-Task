@@ -1,0 +1,234 @@
+
+
+[
+    {
+      "id": 1,
+      "name": "Vegetable Stir Fry",
+      "image": "vegetable-stir-fry.jpg",
+      "ingredients": [
+        "Tofu, cubed",
+        "Broccoli florets",
+        "Carrots, sliced",
+        "Bell peppers, sliced",
+        "Soy sauce",
+        "Ginger, minced",
+        "Garlic, minced",
+        "Sesame oil",
+        "Cooked rice for serving"
+    ],
+      "preparationTime": 20,
+      "isVegetarian": true
+    },
+    {
+      "id": 2,
+      "name": "Chicken Curry",
+      "image": "chickencurry.jpg",
+      "ingredients": [
+         "Chicken", 
+         "Curry Powder", 
+         "Tomatoes", 
+         "Onion", 
+         "Garlic", 
+         "Coconut Milk"
+    ],
+      "preparationTime": 40,
+      "isVegetarian": false
+    },
+    {
+      "id": 3,
+      "name": "Spaghetti Carbonara",
+      "image": "Spaghetticarbonara.jpg",
+      "ingredients": [
+           "Spaghetti", 
+           "Bacon", 
+           "Eggs", 
+           "Parmesan", 
+           "Garlic", 
+           "Black Pepper"],
+      "preparationTime": 25,
+      "isVegetarian": false
+    },
+    {
+      "id": 4,
+      "name": "Tofu Stir Fry",
+      "image": "tofu-stir-fry.jpg",
+      "ingredients": ["Tofu", "Bell Pepper", "Onion", "Soy Sauce", "Garlic", "Ginger"],
+      "preparationTime": 30,
+      "isVegetarian": true
+    },
+    {
+        "id": 5,
+        "name": "Classic Margherita Pizza",
+        "image": "Margherita.jpg",
+        "ingredients":  [
+            "Pizza dough",
+            "Tomato sauce",
+            "Fresh mozzarella cheese",
+            "Fresh basil leaves",
+            "Olive oil",
+            "Salt and pepper to taste"
+        ],
+        "preparationTime": 20,
+        "isVegetarian": true
+      },
+      {
+        "id": 6,
+        "name": "Chocolate Chip Cookies",
+        "image": "ChocolateChipCookies.jpg",
+        "ingredients": [
+            "All-purpose flour",
+            "Butter, softened",
+            "Brown sugar",
+            "White sugar",
+            "Eggs",
+            "Vanilla extract",
+            "Baking soda",
+            "Salt",
+            "Chocolate chips"
+        ],
+        "preparationTime": 15,
+        "isVegetarian": true
+      },
+      {
+        "id": 7,
+        "name": "Chicken Alfredo Pasta",
+        "image": "ChickenAlfredoPasta.jpeg",
+        "ingredients": [
+            "Fettuccine pasta",
+            "Chicken breast, sliced",
+            "Heavy cream",
+            "Parmesan cheese, grated",
+            "Garlic, minced",
+            "Butter",
+            "Salt and pepper to taste",
+            "Fresh parsley for garnish"
+        ],
+        "preparationTime": 10,
+        "isVegetarian": false
+      },
+      {
+        "id": 8,
+        "name": "Mango Salsa Chicken",
+        "image": "MangoSalsaChicken.jpg",
+        "ingredients":  [
+            "Chicken thighs",
+            "Mango, diced",
+            "Red onion, finely chopped",
+            "Cilantro, chopped",
+            "Lime juice",
+            "Jalapeño, minced",
+            "Salt and pepper to taste",
+            "Cooked rice for serving"
+        ],
+        "preparationTime": 20,
+        "isVegetarian": false
+      },
+      {
+        "id": 9,
+        "name": "Quinoa Salad with Avocado",
+        "image": "QuinoaSalad.jpg",
+        "ingredients": [
+            "Quinoa, cooked",
+            "Avocado, diced",
+            "Cherry tomatoes, halved",
+            "Cucumber, diced",
+            "Red bell pepper, diced",
+            "Feta cheese, crumbled",
+            "Lemon vinaigrette dressing",
+            "Salt and pepper to taste"
+        ],
+        "preparationTime": 10,
+        "isVegetarian": true
+      },
+      {
+        "id": 10,
+        "name": "Tomato Basil Bruschetta",
+        "image": "TomatoBasilBruschetta.jpg",
+        "ingredients": [
+            "Baguette, sliced",
+            "Tomatoes, diced",
+            "Fresh basil, chopped",
+            "Garlic cloves, minced",
+            "Balsamic glaze",
+            "Olive oil",
+            "Salt and pepper to taste"
+        ],
+        "preparationTime": 30,
+        "isVegetarian": true
+      },
+      {
+        "id": 11,
+        "name": "Caprese Salad",
+        "image": "CapreseSalad.jpg",
+        "ingredients":  [
+            "Tomatoes, sliced",
+            "Fresh mozzarella cheese, sliced",
+            "Fresh basil leaves",
+            "Balsamic glaze",
+            "Extra virgin olive oil",
+            "Salt and pepper to taste"
+        ],
+        "preparationTime": 10,
+        "isVegetarian": true
+      },
+      {
+        "id": 12,
+        "name": "Shrimp Scampi Pasta",
+        "image": "ShrimpScampiPasta.jpg",
+        "ingredients":  [
+            "Linguine pasta",
+            "Shrimp, peeled and deveined",
+            "Garlic, minced",
+            "White wine",
+            "Lemon juice",
+            "Red pepper flakes",
+            "Fresh parsley, chopped",
+            "Salt and pepper to taste"
+        ],
+        "preparationTime": 30,
+        "isVegetarian": false
+      },
+      {
+        "id": 13,
+        "name": "Chicken Biryani",
+        "image": "ChickenBiryani.jpg",
+        "ingredients": [
+            "Basmati rice",
+            "Chicken, cut into pieces",
+            "Onions, thinly sliced",
+            "Tomatoes, chopped",
+            "Yogurt",
+            "Ginger-garlic paste",
+            "Biryani masala",
+            "Green chilies, sliced",
+            "Fresh coriander leaves",
+            "Mint leaves",
+            "Ghee",
+            "Salt to taste"
+        ],
+        "preparationTime": 40,
+        "isVegetarian": false
+      },
+      {
+        "id": 14,
+        "name": "Chicken Karahi",
+        "image": "ChickenKarahi.jpg",
+        "ingredients":  [
+            "Chicken, cut into pieces",
+            "Tomatoes, chopped",
+            "Green chilies, sliced",
+            "Ginger, julienned",
+            "Garlic, minced",
+            "Coriander powder",
+            "Cumin powder",
+            "Red chili powder",
+            "Garam masala",
+            "Cooking oil",
+            "Fresh coriander leaves",
+            "Salt to taste"
+        ],
+        "preparationTime": 40,
+        "isVegetarian": false
+      }
+  ]
+  
